@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Material Green",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Material,Green"
+  },  
+  {
+    "name": "Lava Lamp",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/wave-7594534_1280.jpg",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/wave-7594534_1280.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Green"
+  },  
+  {
+    "name": "Sea Weed",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594548_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594548_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Green"
+  },
+  {
+    "name": "Violet Sky",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains,Gradient,Landscape,Earth"
+  },
+
+  {
+    "name": "Sunrise",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/sunset-7594535_1280.jpg",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/sunset-7594535_1280.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Dawn,Sky,Sun"
+  },
+  {
+    "name": "The Dawn",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/dawn-7594542_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/dawn-7594542_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Dawn,Sky,Sun"
+  },
+  {
+    "name": "Purple Waves",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594544_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594544_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Waves"
+  },
+  {
+    "name": "Prism",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/s10-7594540_1280.jpg",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/s10-7594540_1280.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Pink,Green,Gradient"
+  },
+  {
+    "name": "Beauty After Fire",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/fire-7594533_1280.jpg",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/fire-7594533_1280.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Fire,Gradient"
+  },
+  {
+    "name": "Gradient Waves",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Waves,Gradient"
+  },
+  {
+    "name": "Violet Sky",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains,Gradient,Landscape,Earth"
+  }
+	
+]
