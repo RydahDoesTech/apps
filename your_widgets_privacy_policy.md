@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Rydah built the YOUR Widgets app as an Open Source app. This SERVICE is provided by Rydah at no cost and is intended for use as is.
+Rydah built the YOUR Widgets app as an Open Source app. This SERVICE is provided by Rydah at $1.99 and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
