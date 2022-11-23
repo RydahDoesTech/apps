@@ -107,5 +107,23 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Butterfly,Flower,Green"
+  },
+  {
+    "name": "Green Mountains",
+    "author": "Yura Forrat",
+    "url": "https://images.pexels.com/photos/12850806/pexels-photo-12850806.jpeg",
+    "thumbnail": "https://images.pexels.com/photos/12850806/pexels-photo-12850806.jpeg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains,Trees,Green"
+  },
+  {
+    "name": "Blue Skies",
+    "author": "Yura Forrat",
+    "url": "https://images.pexels.com/photos/12688687/pexels-photo-12688687.jpeg",
+    "thumbnail": "https://images.pexels.com/photos/12688687/pexels-photo-12688687.jpeg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Blue,Night,Clouds"
   }
 ]
