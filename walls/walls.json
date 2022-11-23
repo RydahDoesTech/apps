@@ -64,6 +64,15 @@
     "collections": "Purple,Waves"
   },
   {
+    "name": "Gradient Waves",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Waves,Gradient"
+  },
+  {
     "name": "Prism",
     "author": "Rydah",
     "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/s10-7594540_1280.jpg",
@@ -80,15 +89,6 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Purple,Fire,Gradient"
-  },
-  {
-    "name": "Gradient Waves",
-    "author": "Rydah",
-    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
-    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Purple,Waves,Gradient"
   },
   {
     "name": "Black Mountains",
