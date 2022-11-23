@@ -132,6 +132,33 @@
     "thumbnail": "https://images.unsplash.com/photo-1669176535617-7f12dd63297c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1763&q=80",
     "copyright": "Free for personal use",
     "downloadable": true,
+    "collections": "Material,Gray,Blue,Blank"
+  },
+  {
+    "name": "Pastel Gray",
+    "author": "Rydah",
+    "url": "https://images.unsplash.com/photo-1669176535597-15f27d97519c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1241&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1669176535597-15f27d97519c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1241&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
     "collections": "Material,Gray,Black,Blank"
+  },
+  {
+    "name": "Bora Purple",
+    "author": "Rydah",
+    "url": "https://images.unsplash.com/photo-1669176535642-d350442c4ad0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1242&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1669176535642-d350442c4ad0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1242&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Material,Gray,Purple,Blank"
+  },
+  {
+    "name": "Totally Teal",
+    "author": "Rydah",
+    "url": "https://images.unsplash.com/photo-1669176535594-abc5cb0f286f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1241&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1669176535594-abc5cb0f286f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1241&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Material,Gray,Teal,Blank"
   }
 ]
