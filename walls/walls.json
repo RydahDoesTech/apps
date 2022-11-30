@@ -160,5 +160,86 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Material,Gray,Teal,Blank"
+  },  
+  {
+    "name": "Purple Mountains",
+    "author": "IceUniverse",
+    "url": "https://i.imgur.com/78svLpL.jpg",
+    "thumbnail": "https://i.imgur.com/78svLpL.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Purple,Mountains,Gradient,Amoled"
+  },
+    {
+    "name": "Green Mountains",
+    "author": "IceUniverse",
+    "url": "https://i.imgur.com/n1FzguD.jpg",
+    "thumbnail": "https://i.imgur.com/n1FzguD.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Green,Mountains,Gradient,Amoled"
+  },
+    {
+    "name": "Ruby Red Mountains",
+    "author": "IceUniverse",
+    "url": "https://i.imgur.com/EaM8PmJ.jpg",
+    "thumbnail": "https://i.imgur.com/EaM8PmJ.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Red,Mountains,Gradient,Amoled"
+  },
+    {
+    "name": "Golden Mountains",
+    "author": "IceUniverse",
+    "url": "https://i.imgur.com/64sF7YG.jpg",
+    "thumbnail": "https://i.imgur.com/64sF7YG.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Yellow,Gold,Mountains,Gradient,Amoled"
+  },
+    {
+    "name": "Catching Waves",
+    "author": "Rydah",
+    "url": "https://i.imgur.com/QgGPk86.jpg",
+    "thumbnail": "https://i.imgur.com/QgGPk86.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Blue,Green,Waves"
+  },
+    {
+    "name": "Green Grains",
+    "author": "Rydah",
+    "url": "https://i.imgur.com/YAmEecf.png",
+    "thumbnail": "https://i.imgur.com/YAmEecf.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Green,Blur"
+  },
+    {
+    "name": "Atlantic Ocean",
+    "author": "Rydah",
+    "url": "https://i.imgur.com/mp8XNDE.jpg",
+    "thumbnail": "https://i.imgur.com/mp8XNDE.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Blue,Gradient"
+  },
+    {
+    "name": "",
+    "author": "",
+    "url": "",
+    "thumbnail": "",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": ""
+  },
+  {
+    "name": "Sweet Sweet",
+    "author": "Rydah",
+    "url": "https://i.imgur.com/8Sqv5a9.png",
+    "thumbnail": "https://i.imgur.com/8Sqv5a9.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Gradient,Water,Paint,Rainbow"
   }
 ]
