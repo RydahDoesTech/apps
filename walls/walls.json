@@ -6,7 +6,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Green"
+    "collections": "Material"
   },  
   {
     "name": "Lava Lamp",
@@ -15,7 +15,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/wave-7594534_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Waves,Green"
+    "collections": "Waves"
   },  
   {
     "name": "Sea Weed",
@@ -24,7 +24,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594548_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Waves,Green"
+    "collections": "Waves"
   },
   {
     "name": "Violet Sky",
@@ -33,7 +33,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Mountains,Art"
+    "collections": "Mountains"
   },
   {
     "name": "Sunrise",
@@ -42,7 +42,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/sunset-7594535_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Purple"
+    "collections": "Nature"
   },
   {
     "name": "The Dawn",
@@ -51,7 +51,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/dawn-7594542_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Purple"
+    "collections": "Nature"
   },
   {
     "name": "Purple Waves",
@@ -60,7 +60,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594544_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Waves"
+    "collections": "Waves"
   },
   {
     "name": "Gradient Waves",
@@ -69,7 +69,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Waves"
+    "collections": "Waves"
   },
   {
     "name": "Prism",
@@ -78,7 +78,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/s10-7594540_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Pink,Green"
+    "collections": "Gradients"
   },
   {
     "name": "Beauty After Fire",
@@ -87,7 +87,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/fire-7594533_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Purple"
+    "collections": "Nature"
   },
   {
     "name": "Black Mountains",
@@ -105,7 +105,7 @@
     "thumbnail": "https://images.pexels.com/photos/13280779/pexels-photo-13280779.jpeg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Green"
+    "collections": "Nature"
   },
   {
     "name": "Green Hills",
@@ -114,7 +114,7 @@
     "thumbnail": "https://images.pexels.com/photos/12850806/pexels-photo-12850806.jpeg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Mountains,Trees,Green"
+    "collections": "Nature,Mountains"
   },
   {
     "name": "Blue Skies",
@@ -195,7 +195,7 @@
     "thumbnail": "https://i.imgur.com/64sF7YG.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Gold,Mountains,Amoled"
+    "collections": "Nature,Mountains,Amoled"
   },
     {
     "name": "Catching Waves",
@@ -204,7 +204,7 @@
     "thumbnail": "https://i.imgur.com/QgGPk86.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Blue,Green,Waves"
+    "collections": "Waves"
   },
     {
     "name": "Green Grains",
@@ -213,7 +213,7 @@
     "thumbnail": "https://i.imgur.com/YAmEecf.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Green"
+    "collections": "Gradiants"
   },
     {
     "name": "Atlantic Ocean",
