@@ -6,7 +6,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material,Green"
+    "collections": "Green"
   },  
   {
     "name": "Lava Lamp",
@@ -33,7 +33,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Mountains,Gradient,Landscape,Earth"
+    "collections": "Mountains,Art"
   },
   {
     "name": "Sunrise",
@@ -42,7 +42,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/sunset-7594535_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Dawn,Sky,Sun"
+    "collections": "Nature,Purple"
   },
   {
     "name": "The Dawn",
@@ -51,7 +51,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/dawn-7594542_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Dawn,Sky,Sun"
+    "collections": "Nature,Purple"
   },
   {
     "name": "Purple Waves",
@@ -69,7 +69,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/waves-7594547_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Waves,Gradient"
+    "collections": "Purple,Waves"
   },
   {
     "name": "Prism",
@@ -78,7 +78,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/37/s10-7594540_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Pink,Green,Gradient"
+    "collections": "Purple,Pink,Green"
   },
   {
     "name": "Beauty After Fire",
@@ -87,7 +87,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/fire-7594533_1280.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Fire,Gradient"
+    "collections": "Nature,Purple"
   },
   {
     "name": "Black Mountains",
@@ -96,7 +96,7 @@
     "thumbnail": "https://images.pexels.com/photos/12880191/pexels-photo-12880191.jpeg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Mountains,Gray,Clouds"
+    "collections": "Nature,Mountains"
   },
   {
     "name": "Black Butterfly",
@@ -105,7 +105,7 @@
     "thumbnail": "https://images.pexels.com/photos/13280779/pexels-photo-13280779.jpeg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Butterfly,Flower,Green"
+    "collections": "Nature,Green"
   },
   {
     "name": "Green Hills",
@@ -114,7 +114,7 @@
     "thumbnail": "https://images.pexels.com/photos/12850806/pexels-photo-12850806.jpeg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Mountains,Trees,Green"
+    "collections": "Nature,Mountains,Trees,Green"
   },
   {
     "name": "Blue Skies",
@@ -123,7 +123,7 @@
     "thumbnail": "https://images.pexels.com/photos/12688687/pexels-photo-12688687.jpeg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Blue,Night,Clouds"
+    "collections": "Nature"
   },
   {
     "name": "Pacific Blue",
@@ -132,7 +132,7 @@
     "thumbnail": "https://images.unsplash.com/photo-1669176535617-7f12dd63297c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1763&q=80",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material,Gray,Blue,Blank"
+    "collections": "Material,Gray,Blue"
   },
   {
     "name": "Pastel Black",
@@ -141,7 +141,7 @@
     "thumbnail": "https://images.unsplash.com/photo-1669176535597-15f27d97519c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1241&q=80",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material,Gray,Black,Blank"
+    "collections": "Material,Gray,Black"
   },
   {
     "name": "Bora Purple",
@@ -150,7 +150,7 @@
     "thumbnail": "https://images.unsplash.com/photo-1669176535642-d350442c4ad0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1242&q=80",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material,Gray,Purple,Blank"
+    "collections": "Material,Gray,Purple"
   },
   {
     "name": "Totally Teal",
@@ -159,7 +159,7 @@
     "thumbnail": "https://images.unsplash.com/photo-1669176535594-abc5cb0f286f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1241&q=80",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material,Gray,Teal,Blank"
+    "collections": "Material,Gray,Teal"
   },  
   {
     "name": "Purple Mountains",
@@ -168,7 +168,7 @@
     "thumbnail": "https://i.imgur.com/78svLpL.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Purple,Mountains,Gradient,Amoled"
+    "collections": "Nature,Mountains,Gradient,Amoled"
   },
     {
     "name": "Green Mountains",
@@ -177,7 +177,7 @@
     "thumbnail": "https://i.imgur.com/n1FzguD.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Green,Mountains,Gradient,Amoled"
+    "collections": "Nature,Mountains,Gradient,Amoled"
   },
     {
     "name": "Ruby Red Mountains",
@@ -186,7 +186,7 @@
     "thumbnail": "https://i.imgur.com/EaM8PmJ.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Red,Mountains,Gradient,Amoled"
+    "collections": "Nature,Mountains,Gradient,Amoled"
   },
     {
     "name": "Golden Mountains",
@@ -195,7 +195,7 @@
     "thumbnail": "https://i.imgur.com/64sF7YG.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Yellow,Gold,Mountains,Gradient,Amoled"
+    "collections": "Nature,Gold,Mountains,Gradient,Amoled"
   },
     {
     "name": "Catching Waves",
@@ -213,7 +213,7 @@
     "thumbnail": "https://i.imgur.com/YAmEecf.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Green,Blur"
+    "collections": "Green"
   },
     {
     "name": "Atlantic Ocean",
@@ -222,7 +222,7 @@
     "thumbnail": "https://i.imgur.com/mp8XNDE.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Blue,Gradient"
+    "collections": "Blue"
   },
     {
     "name": "",
