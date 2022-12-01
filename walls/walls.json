@@ -168,7 +168,7 @@
     "thumbnail": "https://i.imgur.com/78svLpL.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Mountains,Gradient,Amoled"
+    "collections": "Nature,Mountains,Amoled"
   },
     {
     "name": "Green Mountains",
@@ -177,7 +177,7 @@
     "thumbnail": "https://i.imgur.com/n1FzguD.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Mountains,Gradient,Amoled"
+    "collections": "Nature,Mountains,Amoled"
   },
     {
     "name": "Ruby Red Mountains",
@@ -186,7 +186,7 @@
     "thumbnail": "https://i.imgur.com/EaM8PmJ.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Mountains,Gradient,Amoled"
+    "collections": "Nature,Mountains,Amoled"
   },
     {
     "name": "Golden Mountains",
@@ -195,7 +195,7 @@
     "thumbnail": "https://i.imgur.com/64sF7YG.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Nature,Gold,Mountains,Gradient,Amoled"
+    "collections": "Nature,Gold,Mountains,Amoled"
   },
     {
     "name": "Catching Waves",
@@ -240,6 +240,6 @@
     "thumbnail": "https://i.imgur.com/8Sqv5a9.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Gradient,Water,Paint,Rainbow"
+    "collections": "Art"
   }
 ]
