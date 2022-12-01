@@ -7,7 +7,25 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Material"
-  },  
+  },
+  {
+    "name": "Sweet Sweet",
+    "author": "Rydah",
+    "url": "https://i.imgur.com/8Sqv5a9.png",
+    "thumbnail": "https://i.imgur.com/8Sqv5a9.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art"
+  },
+  {
+    "name": "Violet Sky",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains"
+  },
   {
     "name": "Lava Lamp",
     "author": "Rydah",
@@ -25,15 +43,6 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Waves"
-  },
-  {
-    "name": "Violet Sky",
-    "author": "Rydah",
-    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
-    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Mountains"
   },
   {
     "name": "Sunrise",
@@ -232,14 +241,5 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": ""
-  },
-  {
-    "name": "Sweet Sweet",
-    "author": "Rydah",
-    "url": "https://i.imgur.com/8Sqv5a9.png",
-    "thumbnail": "https://i.imgur.com/8Sqv5a9.png",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Art"
   }
 ]
