@@ -1,14 +1,5 @@
 [
   {
-    "name": "Material Green",
-    "author": "Rydah",
-    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
-    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Material"
-  },
-  {
     "name": "Sweet Sweet",
     "author": "Rydah",
     "url": "https://i.imgur.com/8Sqv5a9.png",
@@ -25,6 +16,15 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Mountains"
+  },
+  {
+    "name": "Material Green",
+    "author": "Rydah",
+    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
+    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Material"
   },
   {
     "name": "Lava Lamp",
