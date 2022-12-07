@@ -15,7 +15,7 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/mountain-7594532_1280.png",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Mountains"
+    "collections": "Mountains,Art"
   },
   {
     "name": "Material Green",
@@ -430,6 +430,42 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Movement,AMOLED"
+  },
+    {
+    "name": "Road Life",
+    "author": "Mahdi Bafande",
+    "url": "https://images.unsplash.com/photo-1666954797286-5d3fea1a68c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1666954797286-5d3fea1a68c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Movement"
+  },
+    {
+    "name": "Plants on the Wall",
+    "author": "Racim Amr",
+    "url": "https://images.unsplash.com/photo-1667518612813-8dd34e6b8bf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1667518612813-8dd34e6b8bf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Nature,Plants"
+  },
+    {
+    "name": "Yekaterinburg",
+    "author": "Ainur Khakimov",
+    "url": "https://images.unsplash.com/photo-1654535449378-6c3f94932aaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1654535449378-6c3f94932aaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Gradients,Architecture"
+  },
+    {
+    "name": "London Skies",
+    "author": "Matteo Baronio",
+    "url": "https://images.unsplash.com/photo-1645988474495-92c50c44a985?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=758&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1645988474495-92c50c44a985?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=758&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Gradients"
   },
   {
     "name": "",
