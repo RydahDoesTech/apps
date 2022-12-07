@@ -468,6 +468,42 @@
     "collections": "Gradients"
   },
   {
+    "name": "Jelly",
+    "author": "Vino Li",
+    "url": "https://images.unsplash.com/photo-1603676645575-995510ed7141?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1603676645575-995510ed7141?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Life Around Me"
+  },
+  {
+    "name": "Jelly 2",
+    "author": "Maksym Sirman",
+    "url": "https://images.unsplash.com/photo-1599499865410-656f187adf74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1599499865410-656f187adf74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Life Around Me"
+  },
+  {
+    "name": "Black Sand",
+    "author": "Vista Wei",
+    "url": "https://images.unsplash.com/photo-1619491318496-6bca893bf1a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1619491318496-6bca893bf1a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Sand,Gradiants"
+  },
+  {
+    "name": "Purple Shades",
+    "author": "Gradienta",
+    "url": "https://images.unsplash.com/photo-1579547621115-c3a18faa2980?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=678&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1579547621115-c3a18faa2980?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=678&q=80",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Material"
+  },
+  {
     "name": "",
     "author": "",
     "url": "",
