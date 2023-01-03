@@ -587,8 +587,8 @@
   {
     "name": "Megh 4",
     "author": "@MadeByMegh",
-    "url": "https://drive.google.com/uc?id=1YobVN59G0Yq76qQIUvmUSXyxJpLRPVR6",
-    "thumbnail": "https://drive.google.com/uc?id=1YobVN59G0Yq76qQIUvmUSXyxJpLRPVR6",
+    "url": "https://drive.google.com/uc?id=",
+    "thumbnail": "https://drive.google.com/uc?id=",
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Material"
@@ -654,7 +654,7 @@
     "thumbnail": "https://drive.google.com/uc?id=1rbUBHycssKRt5hviPzyb0RBWBoucF93l",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material,"
+    "collections": "Material"
   },
   {
     "name": "Night Rise",
