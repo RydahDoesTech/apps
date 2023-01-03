@@ -10,7 +10,7 @@ It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in ot
 
 ## Apps are available via the Play Store
 <a href="https://play.google.com/store/apps/dev?id=4800824109645536776">
-<img height="80" alt="Get it on Google Play" src="https://raw.githubusercontent.com/iOSXPC/wallpaper_app/main/playstore.png">
+<img height="80" alt="Get it on Google Play" src="https://github.com/RydahDoesTech/apps/blob/main/playstore.png?raw=true">
 </a>
 
 * If you want to donate; please, donate via either of the apps.
