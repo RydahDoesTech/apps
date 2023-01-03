@@ -1,5 +1,5 @@
 # Apps by Rydah
-This is an Android app to have custom widgets & wallpapers on your smartphone. All widgets are designed by me, Rydah, using Samsung S22 Ultra or Pixel 7 Pro; if the wallpaper is was created by another designer, I give credit to the original developer.
+This is an Android app to have custom widgets & wallpapers on your smartphone. All widgets are designed by me, Rydah, using Samsung S22 Ultra or Pixel 7 Pro; Some wallpapers are created by another designers in which I give credit to the original creator. Wallpapers bundled within the app are not for sale and are available for personal use only.
 
 ## Copyright infringement is prohibited.
 All images are protected by the [CC 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/legalcode#s2b/).
