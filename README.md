@@ -3,8 +3,7 @@ This is an Android app to have custom widgets & wallpapers on your smartphone. A
 
 ## Copyright infringement is prohibited.
 All images are protected by the [CC 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/legalcode#s2b/).
-This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit me, Rydah, for the original creation.
-It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in other applications.
+This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit me, Rydah, for any original creations used.
 
 * [Terms of Use](https://github.com/RydahDoesTech/apps/blob/main/terms_and_conditions.md#terms--conditions)
 
