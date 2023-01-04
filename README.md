@@ -12,4 +12,4 @@ This license lets others distribute, remix, tweak, and build upon the work, even
 <img height="80" alt="Get it on Google Play" src="https://github.com/RydahDoesTech/apps/blob/main/playstore.png?raw=true">
 </a>
 
-* If you want to donate; please, donate via either of the apps.
+* If you'd like to donate; please, donate via either of the apps in the donate menu.
