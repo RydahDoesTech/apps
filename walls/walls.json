@@ -847,6 +847,42 @@
     "collections": "Art,Material"
   },
   {
+    "name": "Phantom Black",
+    "author": "Rydah",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Phantom%20Black%20Wallpaper.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Phantom%20Black%20Wallpaper.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Samsung"
+  },
+  {
+    "name": "Misty Lilac",
+    "author": "Rydah",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Misty%20Lilac%20Wallpaper.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Misty%20Lilac%20Wallpaper.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Samsung"
+  },
+  {
+    "name": "Cotton Flower",
+    "author": "Rydah",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Cotton%20Flower%20Wallpaper.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Cotton%20Flower%20Wallpaper.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Samsung"
+  },
+  {
+    "name": "Botanical Green",
+    "author": "Rydah",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Botanic%20Green%20Wallpaper.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Botanic%20Green%20Wallpaper.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Samsung"
+  },
+  {
     "name": "",
     "author": "",
     "url": "",
