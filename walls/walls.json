@@ -849,8 +849,17 @@
   {
     "name": "Phantom Black",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Phantom%20Black%20Wallpaper.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Phantom%20Black%20Wallpaper.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_004.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_004.png",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Phantom Black 2",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_003.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_003.png",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
@@ -858,8 +867,17 @@
   {
     "name": "Misty Lilac",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Misty%20Lilac%20Wallpaper.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Misty%20Lilac%20Wallpaper.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_008.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_008.png",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+  {
+    "name": "Misty Lilac 2",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_007.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_007.png",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
@@ -867,8 +885,17 @@
   {
     "name": "Cotton Flower",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Cotton%20Flower%20Wallpaper.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Cotton%20Flower%20Wallpaper.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_002.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_002.png",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },  
+  {
+    "name": "Cotton Flower 2",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_001.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_001.png",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
@@ -876,8 +903,16 @@
   {
     "name": "Botanic Green",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Botanic%20Green%20Wallpaper.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Botanic%20Green%20Wallpaper.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_006.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_006.png",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    "name": "Botanic Green 2",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_005.png",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/S23/Wallpaper_005.png",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
