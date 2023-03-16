@@ -928,6 +928,15 @@
     "collections": "Mountains"
   },
   {
+    "name": "Snow Mountains",
+    "author": "Jorgen Hendriksen",
+    "url": "https://images.unsplash.com/photo-1678829687532-015405317abc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1678829687532-015405317abc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains"
+  },
+  {
     "name": "",
     "author": "",
     "url": "",
