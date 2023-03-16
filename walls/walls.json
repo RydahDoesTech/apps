@@ -955,6 +955,24 @@
     "collections": "Plants"
   },
   {
+    "name": "Mountain Sunset",
+    "author": "Eddin Enrique",
+    "url": "https://images.unsplash.com/photo-1678338712030-6b529c30bd41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1678338712030-6b529c30bd41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains"
+  },
+  {
+    "name": "Japanese Alleyway",
+    "author": "Willian de Vasconcellos",
+    "url": "https://images.unsplash.com/photo-1678489819868-9a8136044b00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1678489819868-9a8136044b00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Life Around Me"
+  },
+  {
     "name": "",
     "author": "",
     "url": "",
