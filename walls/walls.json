@@ -937,7 +937,7 @@
     "collections": "Mountains"
   },
   {
-    "name": "Flower Close Up 1",
+    "name": "Flower Close Up Peach",
     "author": "Marek Piwnicki",
     "url": "https://images.unsplash.com/photo-1678733231878-aabd84b58a45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
     "thumbnail": "https://images.unsplash.com/photo-1678733231878-aabd84b58a45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
@@ -946,13 +946,31 @@
     "collections": "Plants"
   },
   {
-    "name": "Flower Close Up 2",
+    "name": "Flower Close Up Violet",
     "author": "Marek Piwnicki",
     "url": "https://images.unsplash.com/photo-1645642876725-fe88aaf9d045?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
     "thumbnail": "https://images.unsplash.com/photo-1645642876725-fe88aaf9d045?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Plants"
+  },
+  {
+    "name": "Flower Close Up Pink",
+    "author": "Marek Piwnicki",
+    "url": "https://images.unsplash.com/photo-1676057873274-4db1b58d7f5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1676057873274-4db1b58d7f5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Plants"
+  },
+  {
+    "name": "Muted Rainbow",
+    "author": "Pramod Tiwari",
+    "url": "https://images.unsplash.com/photo-1664986633648-0c6774282c19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1664986633648-0c6774282c19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art"
   },
   {
     "name": "Mountain Sunset",
