@@ -991,6 +991,24 @@
     "collections": "Nature"
   },
   {
+    "name": "Sea Breeze",
+    "author": "DBrand",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/dbrand/Sea%20Breeze%20Design.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/dbrand/Sea%20Breeze%20Design.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "DBrand"
+  },
+  {
+    "name": "Alpine",
+    "author": "DBrand",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/dbrand/Alpine%20Design.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/dbrand/Alpine%20Design.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "DBrand"
+  },
+  {
     "name": "",
     "author": "",
     "url": "",
