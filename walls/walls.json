@@ -1045,6 +1045,42 @@
     "collections": "Art"
   },
   {
+    "name": "Life",
+    "author": "Google",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/Life/Life.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/Life/Life.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Life Around Me"
+  },
+  {
+    "name": "Roaring Waves",
+    "author": "Benjamin Lee",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/Life/Roaring%20Waves.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/Life/Roaring%20Waves.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Life Around Me"
+  },
+  {
+    "name": "Love, Pixel",
+    "author": "Google",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/art/LovePixel.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/art/LovePixel.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art"
+  },
+  {
+    "name": "Blurred Sunrise",
+    "author": "@MadeByMegh",
+    "url": "https://github.com/RydahDoesTech/apps/blob/main/walls/assets/experimental/IMG_20230325_175743_460.png?raw=true",
+    "thumbnail": "https://github.com/RydahDoesTech/apps/blob/main/walls/assets/experimental/IMG_20230325_175743_460.png?raw=true",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Expiremntal"
+  },
+  {
     "name": "",
     "author": "",
     "url": "",
