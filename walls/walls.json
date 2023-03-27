@@ -1045,6 +1045,15 @@
     "collections": "Art"
   },
   {
+    "name": "Love, Pixel",
+    "author": "Google",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/art/LovePixel.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/art/LovePixel.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Art"
+  },
+  {
     "name": "Life",
     "author": "Google",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/Life/Life.jpg",
@@ -1061,15 +1070,6 @@
     "copyright": "Free for personal use",
     "downloadable": true,
     "collections": "Life Around Me"
-  },
-  {
-    "name": "Love, Pixel",
-    "author": "Google",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/art/LovePixel.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/art/LovePixel.jpg",
-    "copyright": "Free for personal use",
-    "downloadable": true,
-    "collections": "Art"
   },
   {
     "name": "Blurred Sunrise",
