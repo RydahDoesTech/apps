@@ -63,13 +63,13 @@
     "collections": "Exclusive,Parallax"
   },
   {
-    "name": "Material Green",
-    "author": "Rydah",
-    "url": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
-    "thumbnail": "https://cdn.pixabay.com/photo/2022/11/15/18/36/android-7594536_1280.png",
+    "name": "Oceanside",
+    "author": "Ben den Engelsen",
+    "url": "https://images.unsplash.com/photo-1680923193530-da0131d216b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1680923193530-da0131d216b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8.jpg",
     "copyright": "Free for personal use",
     "downloadable": true,
-    "collections": "Material"
+    "collections": "Nature"
   },
   {
     "name": "Lava Lamp",
