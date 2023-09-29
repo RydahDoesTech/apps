@@ -26,6 +26,24 @@
     "downloadable": true,
     "collections": "Art"
   },
+    {
+    "name": "Material Blend",
+    "author": "Rydah",
+    "url": "",
+    "thumbnail": "",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Exclusive,Material"
+  },
+    {
+    "name": "Green Aerial",
+    "author": "Karsten Winegeart",
+    "url": "https://images.unsplash.com/photo-1695758891556-f70f65a704b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1695758891556-f70f65a704b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Nature"
+  },
   {
     "name": "Beautiful Gradients",
     "author": "Thomas Lefebvre",
