@@ -909,6 +909,60 @@
     "downloadable": true,
     "collections": "Art,Material"
   },
+    {
+    "name": "Flip 6 Black",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Black%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Black%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Flip 6 Blue",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Flip 6 Green",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Green%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Green%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Flip 6 Orange",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Orange%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Orange%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Flip 6 Silver",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Flip 6 Yellow",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
   {
     "name": "Phantom Black",
     "author": "Samsung",
