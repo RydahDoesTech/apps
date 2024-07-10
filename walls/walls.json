@@ -919,10 +919,10 @@
     "collections": "Samsung"
   },
     {
-    "name": "Flip 6 Blue",
+    "name": "Flip 6 Silver",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
@@ -937,6 +937,15 @@
     "collections": "Samsung"
   },
     {
+    "name": "Flip 6 Blue",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Flip6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
     "name": "Flip 6 Orange",
     "author": "Samsung",
     "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Orange%20Flip6.jpg",
@@ -946,19 +955,46 @@
     "collections": "Samsung"
   },
     {
-    "name": "Flip 6 Silver",
+    "name": "Flip 6 Yellow",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Flip6.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
   },
     {
-    "name": "Flip 6 Yellow",
+    "name": "Fold 6 Black",
     "author": "Samsung",
-    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Yellow%20Flip6.jpg",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Black%20Fold6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Black%20Fold6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Fold 6 Silver",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Fold6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Silver%20Fold6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Fold 6 Blue",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Fold6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Blue%20Fold6.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": false,
+    "collections": "Samsung"
+  },
+    {
+    "name": "Fold 6 Pink",
+    "author": "Samsung",
+    "url": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Pink%20Fold6.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/RydahDoesTech/apps/main/walls/assets/samsung/foldflip6/Pink%20Fold6.jpg",
     "copyright": "Free for personal use",
     "downloadable": false,
     "collections": "Samsung"
