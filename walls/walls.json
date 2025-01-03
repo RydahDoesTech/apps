@@ -1332,6 +1332,24 @@
     "downloadable": true,
     "collections": "Art"
   },
+    {
+    "name": "Snowfield",
+    "author": "eberhardgross",
+    "url": "https://images.unsplash.com/photo-1731572469027-60f3ea587321?q=80&w=2574.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1731572469027-60f3ea587321?q=80&w=2574.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Mountains,Nature"
+  },
+    {
+    "name": "Snowfield 2",
+    "author": "Martin Masson",
+    "url": "https://images.unsplash.com/photo-1732287931034-c4cc1b06de6a?q=80&w=2574.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1732287931034-c4cc1b06de6a?q=80&w=2574.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": ""
+  },
   {
     "name": "",
     "author": "",
