@@ -1350,6 +1350,24 @@
     "downloadable": true,
     "collections": ""
   },
+    {
+    "name": "Street Lights",
+    "author": "Pars Sahin",
+    "url": "https://images.unsplash.com/photo-1733860694060-e10fabd4e2b1?q=80&w=2574.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1733860694060-e10fabd4e2b1?q=80&w=2574.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "In The City"
+  },
+    {
+    "name": "Green Hummungbird",
+    "author": "Bob Brewer",
+    "url": "https://images.unsplash.com/photo-1734452465230-f571caa4d7d5?q=80&w=2670.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1734452465230-f571caa4d7d5?q=80&w=2670.jpg",
+    "copyright": "Free for personal use",
+    "downloadable": true,
+    "collections": "Nature"
+  },
   {
     "name": "",
     "author": "",
